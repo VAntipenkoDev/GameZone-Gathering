@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Archivo-Variable';
+  src: url('../assets/fonts/Archivo/Archivo-VariableFont.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Teko-Regular';
+  src: url('../assets/fonts/Teko/Teko-Regular.ttf');
+  font-display: swap;
+}

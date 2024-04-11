@@ -28,6 +28,8 @@ module.exports = {
     'no-var': 'error',
     'prefer-const': 'error',
     'react/prop-types': 'off',
+    'no-eq-null': 'off',
+    '@typescript-eslint/strict-boolean-expressions': 'off',
     'prettier/prettier': [
       'warn',
       {
